@@ -4,7 +4,7 @@
       "description": "",
       "main": "index.js",
       "scripts": {
-            "test": "jest --collectCoverage=false tp.test.js"
+            "test": "jest "
       },
       "author": "",
       "license": "ISC",
